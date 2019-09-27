@@ -12,9 +12,9 @@ Microsoft XInput API. This Includes XBOX 360 and XBOX ONE Controllers (Gamepadds
 - XInput_Controller_SFun Demo Model
 - XInput_Controller_SFun_Feedback Demo Model
 - XInput_Controller_SFun Masked Demo Model
-    includes masked Simulink Block with persitent Image for copy&paste
+    -- includes masked Simulink Block with persitent Image for copy&paste
 - XInput_Controller_SFun_Feedback Masked Demo Model
-    includes masked Simulink Block with persitent Image for copy&paste
+    -- includes masked Simulink Block with persitent Image for copy&paste
 
 
 
@@ -26,6 +26,7 @@ Advanteges over 'Joystick Input' (VRJoystick) Block:
 
 
 Tested on Windows 10 1903.
+
 Tested with XBOX ONE Controller via Bluetooth and Xbox Wireless Adapter for Windows 10
 
 
