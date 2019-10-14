@@ -2,7 +2,7 @@
 Simulink Block / S-Function for Windows XInput API (XBOX Controller)
 
 This repo includes 'Level 2 C++ MEX S-Functions' to create Simulink Blocks for Inputs based on 
-Microsoft XInput API. This Includes XBOX 360 and XBOX ONE Controllers (Gamepadds).
+Microsoft XInput API. This Includes XBOX 360 and XBOX ONE Controllers (Gamepads).
 
 2 S-Functions
 - XInput_Controller_SFun (fast execution time)
